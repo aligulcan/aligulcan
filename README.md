@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @aligulcan
-- 👀 I’m interested in Laravel
+- 👀 I’m interested in Laravel Php and Sql
 - 🌱 I’m currently learning .Net Core, React, Node Js and Kotlin
 - 📫 How to reach me ; Linkedin @aligulcan
