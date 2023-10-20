@@ -2,7 +2,7 @@
 - 👋 Merhaba ben @aligulcan
 - 👀 Laravel Php ve Sql ile ilgileniyorum
 - 🌱 Şu anda .Net Core, React, Node Js ve Kotlin öğreniyorum
-- 📫Bana buradan ulaşabilirsiniz; Linkedin @aligulcan
+- 📫 Bana buradan ulaşabilirsiniz; Linkedin @aligulcan
 ____________________________________________________________________
 -> EN <-
 - 👋 Hi, I’m @aligulcan
